@@ -25,7 +25,7 @@ certifi==2023.11.17
     #   requests
 cffi==1.16.0
     # via cryptography
-cfgv==3.4.0
+cfgv==3.5.0
     # via pre-commit
 charset-normalizer==3.3.2
     # via requests
