@@ -41,7 +41,7 @@ distlib==0.4.3
     # via virtualenv
 enrich==1.2.7
     # via molecule
-filelock==3.32.7
+filelock==4.0.0
     # via virtualenv
 google-auth==2.58.0
     # via kubernetes
